@@ -1,0 +1,6 @@
+Anotações
+
+Comandos
+   - Scaffold-DbContext 'Data Source=PC03LAB2524\SENAI;Initial Catalog=db_almoxarifado; User Id=sa; Password=senai.123' Microsoft.EntityFrameworkCore.SqlServer
+
+Tutirial Link: https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio
